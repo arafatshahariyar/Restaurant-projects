@@ -197,6 +197,13 @@ nav ul li a:hover{
     padding: 20px 0px;
 }
 
+.hr{
+    border: dotted 6px beige;
+    border-bottom: none;
+    width: 180px;
+    margin: 8px auto;
+}
+
 .contact-details p address{
     font-size: 1.8rem;
 }
@@ -212,7 +219,7 @@ footer{
 
 footer p{
     line-height: 32px;
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-align: center;
 }
 .social-menus{
